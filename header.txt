@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         FUAS 最终物语辅助插件
+// @author       Sheyiyuan
+// @version      1.0.0
+// @description  最终物语的辅助插件
+// @timestamp    1731760285
+// 2024/11/16
+// @license      MIT
+// @homepageURL  https://github.com/Sheyiyuan/fuas
+// ==/UserScript==
